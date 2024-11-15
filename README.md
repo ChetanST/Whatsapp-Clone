@@ -1,4 +1,4 @@
-Whatsapp Clone Using Html And Css. 
+Whatsapp Clone Using HTML and CSS.
 
 Previw Below 👇
 
